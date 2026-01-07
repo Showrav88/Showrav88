@@ -1,3 +1,5 @@
+![Example of a login test scenario GIF](cover.gif)
+
 ✨ Hi, I’m Showrav Karmakar
 🎓 CSE Graduate (AIUB) • 💻 Test Automation Engineer • 🚀 QA Enthusiast
 🌐 About Me
