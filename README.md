@@ -1,4 +1,6 @@
-![Example of a login test scenario GIF](cover.gif)
+<img src="cover.gif" width="auto" height="auto" alt="Description of GIF" />
+
+
 
 ✨ Hi, I’m Showrav Karmakar
 🎓 CSE Graduate (AIUB) • 💻 Test Automation Engineer • 🚀 QA Enthusiast
