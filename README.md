@@ -49,8 +49,8 @@ If it works on your machine, I’ll still test it.⏰
 
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![JIRA](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JS](https://img.shields.io/badge/APPIUM-EA1A7F?style=for-the-badge&logo=appium&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Postman](https://img.shields.io/badge/POSTMAN-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/REST%20ASSURED-28A745?style=for-the-badge)
 
