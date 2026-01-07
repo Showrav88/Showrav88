@@ -44,7 +44,7 @@ I am a **Software Quality Assurance & Test Automation Engineer** with a strong f
 
 ### 📫 Contact
 * **Email:** [karmakar.showrav.42927@gmail.com](mailto:karmakar.showrav.42927@gmail.com)
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/showrav-karmakar/]
 
 ---
 
