@@ -1,56 +1,51 @@
 <img src="cover.gif" width="1000" height="380" alt="Description of GIF" />
 
+# ✨ Hi, I’m Showrav Karmakar
+### 🎓 CSE Graduate (AIUB) • 💻 Test Automation Engineer • 🚀 QA Enthusiast
 
+---
 
-✨ Hi, I’m Showrav Karmakar
-🎓 CSE Graduate (AIUB) • 💻 Test Automation Engineer • 🚀 QA Enthusiast
-🌐 About Me
+### 🌐 About Me
+I am a **Software Quality Assurance & Test Automation Engineer** with a strong focus on building **robust, scalable, and maintainable** automation frameworks for **Web, Desktop, and API** applications. I currently specialize in **modern QA practices**, **test framework development**, and **CI/CD automation**.
 
-Software Quality Assurance & Test Automation Engineer with a strong focus on building robust, scalable, and maintainable automation frameworks for web, desktop, and API applications. Currently specializing in modern QA practices, test framework development, and CI/CD automation.
+---
 
-📍 Quick Info
+### 📍 Quick Info
+* **Full Name:** Showrav Karmakar
+* **Location:** Bangladesh 🇧🇩
+* **Current Role:** **Junior SQA Engineer** at **Skiff Technologi**
+* **Education:** **B.Sc. in CSE** – American International University-Bangladesh (**AIUB**)
+* **Specialization:** Web, Desktop, & API Testing
+* **Currently Learning:** Advanced **Automation Testing** Architectures
 
-Full Name: Showrav karmakar
+---
 
-Location: Bangladesh 🇧🇩
-
-Role: SQA Engineer 
-Education: B.Sc. in CSE – AIUB
-Junior SQA Engineer at Skiff Technologi
-
-Focus: Test Automation & Quality Engineering
-
-Specialization: Web, Desktop, API
-
-Currently Learning: Automation Testing 
-
-💭 What I Do
-
-
-🛠️ Build scalable E2E automation frameworks (Web, Mobile, Desktop, API)
-
-🔧 Architect CI/CD pipelines with Docker, GitHub Actions
-
-🐛 Detect critical bugs before they hit production
-
-🤝 Collaborate with dev teams to strengthen software quality
-
-💬 Ask me about Test Automation, POM,SDLC,STLC, Manual Testing and more!
-
-📫 Contact
-
-Email: karmakar.showrav.42927@gmail.com
-
-⚡ Fun Fact
-
-If it works on your machine, I’ll still test it.⏰
-
-## 🔧 Automation & Testing Tools
-
-![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### 🛠️ Tech Stack & Tools
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/POSTMAN-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/REST%20ASSURED-28A745?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+---
+
+### 💭 What I Do
+* 🛠️ **Build scalable E2E automation frameworks** for **Web, Mobile, Desktop, and API**.
+* 🔧 **Architect CI/CD pipelines** using **Docker** and **GitHub Actions**.
+* 
+
+[Image of the test automation pyramid]
+
+* 🐛 **Detect critical bugs** and vulnerabilities before they hit production.
+* 🤝 **Collaborate with development teams** to strengthen overall **software quality**.
+* 💬 Ask me about **Test Automation, POM, SDLC, STLC, Manual Testing**, and more!
+
+---
+
+### 📫 Contact
+* **Email:** [karmakar.showrav.42927@gmail.com](mailto:karmakar.showrav.42927@gmail.com)
+* **LinkedIn:** [Your LinkedIn Link Here]
+
+---
+
+### ⚡ Fun Fact
+> **"If it works on your machine, I’ll still test it."** ⏰
