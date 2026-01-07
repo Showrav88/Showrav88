@@ -30,12 +30,8 @@ I am a **Software Quality Assurance & Test Automation Engineer** with a strong f
 ---
 
 ### 💭 What I Do
-* 🛠️ **Build scalable E2E automation frameworks** for **Web, Mobile, Desktop, and API**.
+* 🛠️ **Build scalable E2E automation frameworks** for **Web, Desktop, and API**.
 * 🔧 **Architect CI/CD pipelines** using **Docker** and **GitHub Actions**.
-* 
-
-[Image of the test automation pyramid]
-
 * 🐛 **Detect critical bugs** and vulnerabilities before they hit production.
 * 🤝 **Collaborate with development teams** to strengthen overall **software quality**.
 * 💬 Ask me about **Test Automation, POM, SDLC, STLC, Manual Testing**, and more!
