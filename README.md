@@ -1,4 +1,4 @@
-<img src="cover.gif" width="1000" height="300" alt="Description of GIF" />
+<img src="cover.gif" width="1000" height="380" alt="Description of GIF" />
 
 
 
